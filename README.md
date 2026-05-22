@@ -1,4 +1,5 @@
-<div align="center">  Avanindra Vijay
+<div align="center">  
+Avanindra Vijay
 
 AI Engineer • GenAI Developer • Data Scientist
 
@@ -12,7 +13,8 @@ Building scalable AI systems using LLMs, RAG pipelines, AI agents, and intellige
   <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>  
 </a>  <a href="https://portfolio-ga9f.onrender.com">  
   <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square"/>  
-</a>  </p>  <img src="https://komarev.com/ghpvc/?username=AvanindraVijay&style=flat-square&color=blue"/>  </div>  
+</a>  </p>  
+  <img src="https://komarev.com/ghpvc/?username=AvanindraVijay&style=flat-square&color=blue"/>  </div>  
 ---
 
 About Me
@@ -43,7 +45,9 @@ Languages
 
 <p>  
   <img src="https://skillicons.dev/icons?i=python,javascript,mysql"/>  
-</p>  AI / Machine Learning
+</p>  
+
+AI / Machine Learning
 
 LangChain
 
@@ -68,7 +72,9 @@ Backend & APIs
 
 <p>  
   <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs"/>  
-</p>  REST APIs
+</p>  
+
+REST APIs
 
 Authentication Systems
 
@@ -81,7 +87,9 @@ Databases & Vector Stores
 
 <p>  
   <img src="https://skillicons.dev/icons?i=postgres,mysql"/>  
-</p>  PostgreSQL
+</p>  
+
+PostgreSQL
 
 MySQL
 
@@ -204,7 +212,9 @@ Python • OpenCV • Streaming APIs • LLMs
   
 Activity Graph  
   
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=AvanindraVijay&theme=github-dark&hide_border=true"/></div>---  
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=AvanindraVijay&theme=github-dark&hide_border=true"/></div>
+
+---  
   
 Certifications  
   
@@ -240,7 +250,7 @@ NLP-Projects
 Computer-Vision  
 AI-Automation  
   
----  
+---
   
 GitHub Goals  
   
@@ -258,6 +268,7 @@ Quote
   
 ---  
   
-<div align="center">Open to collaborations in AI, GenAI, Backend Development, and Data Science  
+<div align="center">
+Open to collaborations in AI, GenAI, Backend Development, and Data Science  
   
 </div>
