@@ -3,7 +3,7 @@
 AI Engineer • GenAI Developer • Data Scientist
 
 <p>
-Building scalable AI systems focused on LLMs, RAG pipelines, AI agents, and intelligent automation.
+Building scalable AI systems using LLMs, RAG pipelines, AI agents, and intelligent automation.
 </p><p>
 <a href="https://linkedin.com/in/vijayavanindra">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
@@ -18,7 +18,7 @@ Building scalable AI systems focused on LLMs, RAG pipelines, AI agents, and inte
 
 About Me
 
-AI Engineer with experience building production-grade AI systems using LLMs, LangGraph, FastAPI, vector databases, and multimodal pipelines.
+AI Engineer with hands-on experience building production-grade AI systems using LangGraph, FastAPI, vector databases, multimodal pipelines, and enterprise-grade RAG architectures.
 
 Currently focused on:
 
@@ -47,6 +47,7 @@ Languages
 - LlamaIndex
 - CLIP
 - Scikit-Learn
+- Sentence Transformers
 
 Backend & APIs
 
@@ -55,6 +56,7 @@ Backend & APIs
 </p>- REST APIs
 - Authentication Systems
 - Session Memory Architectures
+- API Orchestration
 
 Databases & Vector Stores
 
@@ -86,11 +88,14 @@ Software Developer — BISAG-N
 
 Ministry of Electronics & IT, Government of India
 
+Key Contributions
+
 - Built conversational AI systems using LangGraph and RAG pipelines
 - Developed NL-to-SQL analytics systems for PostgreSQL
 - Designed scalable AI APIs using Django REST Framework
+- Built automated analytics dashboards with Plotly and Pandas
 - Worked on multimodal and computer vision research systems
-- Created automated dashboards and analytics workflows
+- Improved session context retention using LangGraph orchestration
 
 ---
 
@@ -100,63 +105,74 @@ Multilingual RAG AI Assistant
 
 Production-grade AI assistant with multilingual and multimodal support.
 
-Key Features
+Features
 
-- Hybrid RAG pipeline
-- LangGraph orchestration
-- Session memory
-- OTP authentication
-- Image + text query handling
-- CLIP integration
+- Hybrid RAG Pipeline
+- LangGraph Agent Orchestration
+- Session Memory
+- OTP Authentication
+- Image + Text Query Handling
+- CLIP Integration
+- Scalable REST APIs
 
 Stack
 
-"LangGraph" "FAISS" "FastAPI" "Django" "CLIP" "Python"
+LangGraph • FAISS • FastAPI • Django • CLIP • Python
 
 ---
 
 Enterprise RAG Database Assistant
 
-AI-powered assistant for querying databases and enterprise documents.
+AI-powered assistant for enterprise databases and document intelligence.
 
-Key Features
+Features
 
-- Natural language to SQL
-- OCR-based PDF retrieval
-- Automated data visualization
-- Multi-turn conversational memory
-- Hybrid structured + unstructured reasoning
+- Natural Language to SQL
+- OCR-based PDF Retrieval
+- Automated Data Visualization
+- Multi-turn Conversational Memory
+- Hybrid Structured + Unstructured Reasoning
+- Tool Calling Workflows
 
 Stack
 
-"FastAPI" "PostgreSQL" "LangGraph" "Plotly" "OCR" "LLaMA"
+FastAPI • PostgreSQL • LangGraph • Plotly • OCR • LLaMA
 
 ---
 
 Real-Time Streaming AI Assistant
 
-Real-time AI system capable of processing live audio and video streams.
+Real-time AI assistant capable of understanding live audio and video streams.
 
-Key Features
+Features
 
-- Real-time video/audio processing
-- AI-based contextual responses
-- Computer vision integration
-- Streaming AI workflows
+- Real-Time Video & Audio Processing
+- AI-Based Contextual Responses
+- Computer Vision Integration
+- Streaming AI Workflows
+- Emotion & Interaction Awareness
 
 Stack
 
-"Python" "OpenCV" "LLMs" "Streaming APIs"
+Python • OpenCV • Streaming APIs • LLMs
 
 ---
 
 GitHub Analytics
 
-<div align="center"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=AvanindraVijay&show_icons=true&theme=github_dark&hide_border=true"/><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvanindraVijay&layout=compact&theme=github_dark&hide_border=true"/></div>---
+<div align="center"><a href="https://github.com/AvanindraVijay">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AvanindraVijay&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+</a><a href="https://github.com/AvanindraVijay">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvanindraVijay&layout=compact&theme=github_dark&hide_border=true"/>
+</a></div>---
 
 Contribution Streak
 
-<div align="center"><img src="https://streak-stats.demolab.com?user=AvanindraVijay&theme=github-dark&hide_border=true"/></div>---
+<div align="center"><img src="https://streak-stats.demolab.com?user=AvanindraVijay&theme=github-dark-blue&hide_border=true"/></div>---
+
+Activity Graph
+
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=AvanindraVijay&theme=github-dark&hide_border=true"/></div>---
 
 Certifications
 
@@ -172,8 +188,8 @@ Current Focus
 
 - AI Agents
 - Enterprise AI Systems
-- LLM Fine-Tuning
 - Multi-Agent Workflows
+- LLM Fine-Tuning
 - AI Infrastructure
 - Vector Databases
 
@@ -194,6 +210,22 @@ AI-Automation
 
 ---
 
+GitHub Goals
+
+- Build production-grade AI products
+- Contribute to open-source AI tools
+- Develop scalable AI infrastructure
+- Create reusable RAG architectures
+- Explore autonomous AI systems
+
+---
+
 Quote
 
 «“First, solve the problem. Then, write the code.”»
+
+---
+
+<div align="center">Open to collaborations in AI, GenAI, Backend Development, and Data Science
+
+</div>
