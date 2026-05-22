@@ -1,26 +1,42 @@
-<div align="center">Avanindra Vijay
+<div align="center">
 
-AI Engineer • GenAI Developer • Data Scientist
+# Avanindra Vijay
 
-<p>
+### AI Engineer • GenAI Developer • Data Scientist
+
 Building scalable AI systems using LLMs, RAG pipelines, AI agents, and intelligent automation.
-</p><p>
+
+<p align="center">
+
 <a href="https://linkedin.com/in/vijayavanindra">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a><a href="https://github.com/AvanindraVijay">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a><a href="mailto:vijayavanindra5793@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-</a><a href="https://portfolio-ga9f.onrender.com">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-</p><img src="https://komarev.com/ghpvc/?username=AvanindraVijay&style=flat-square&color=blue"/></div>---
 
-About Me
+<a href="https://github.com/AvanindraVijay">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
-AI Engineer with hands-on experience building production-grade AI systems using LangGraph, FastAPI, vector databases, multimodal pipelines, and enterprise-grade RAG architectures.
+<a href="mailto:vijayavanindra5793@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 
-Currently focused on:
+<a href="https://portfolio-ga9f.onrender.com">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square"/>
+</a>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=AvanindraVijay&style=flat-square&color=blue"/>
+
+</div>
+
+---
+
+# About Me
+
+AI Engineer with experience building production-grade AI systems using LangGraph, FastAPI, vector databases, multimodal AI pipelines, and enterprise-grade RAG architectures.
+
+### Areas of Interest
 
 - Retrieval-Augmented Generation (RAG)
 - AI Agents & Workflow Automation
@@ -31,13 +47,15 @@ Currently focused on:
 
 ---
 
-Tech Stack
+# Tech Stack
 
-Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,javascript,mysql"/>
-</p>AI / Machine Learning
+  <img src="https://skillicons.dev/icons?i=python,javascript,mysql"/>
+</p>
+
+### AI / Machine Learning
 
 - LangChain
 - LangGraph
@@ -49,25 +67,29 @@ Languages
 - Scikit-Learn
 - Sentence Transformers
 
-Backend & APIs
+### Backend & APIs
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs"/>
-</p>- REST APIs
+  <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs"/>
+</p>
+
+- REST APIs
 - Authentication Systems
-- Session Memory Architectures
 - API Orchestration
+- Session Memory Architectures
 
-Databases & Vector Stores
+### Databases & Vector Stores
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
-</p>- PostgreSQL
+  <img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+</p>
+
+- PostgreSQL
 - MySQL
 - FAISS
 - ChromaDB
 
-Data Analytics & Visualization
+### Data Analytics & Visualization
 
 - Pandas
 - NumPy
@@ -76,19 +98,21 @@ Data Analytics & Visualization
 - Matplotlib
 - Seaborn
 
-DevOps & Tools
+### DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,postman"/>
-</p>---
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,postman"/>
+</p>
 
-Experience
+---
 
-Software Developer — BISAG-N
+# Experience
 
-Ministry of Electronics & IT, Government of India
+## Software Developer — BISAG-N
 
-Key Contributions
+**Ministry of Electronics & IT, Government of India**
+
+### Key Contributions
 
 - Built conversational AI systems using LangGraph and RAG pipelines
 - Developed NL-to-SQL analytics systems for PostgreSQL
@@ -99,13 +123,13 @@ Key Contributions
 
 ---
 
-Featured Projects
+# Featured Projects
 
-Multilingual RAG AI Assistant
+## Multilingual RAG AI Assistant
 
 Production-grade AI assistant with multilingual and multimodal support.
 
-Features
+### Features
 
 - Hybrid RAG Pipeline
 - LangGraph Agent Orchestration
@@ -115,8 +139,9 @@ Features
 - CLIP Integration
 - Scalable REST APIs
 
-Stack
+### Stack
 
+```bash
 LangGraph • FAISS • FastAPI • Django • CLIP • Python
 
 ---
@@ -160,11 +185,7 @@ Python • OpenCV • Streaming APIs • LLMs
 
 GitHub Analytics
 
-<div align="center"><a href="https://github.com/AvanindraVijay">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AvanindraVijay&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-</a><a href="https://github.com/AvanindraVijay">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvanindraVijay&layout=compact&theme=github_dark&hide_border=true"/>
-</a></div>---
+<div align="center"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=AvanindraVijay&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvanindraVijay&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/></div>---
 
 Contribution Streak
 
@@ -229,3 +250,4 @@ Quote
 <div align="center">Open to collaborations in AI, GenAI, Backend Development, and Data Science
 
 </div>
+```
