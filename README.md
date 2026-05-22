@@ -1,92 +1,199 @@
-# Hi 👋, I'm Avanindra Vijay
+<div align="center">Avanindra Vijay
 
-### AI Engineer | Frontend Developer | Data Scientist
+AI Engineer • GenAI Developer • Data Scientist
 
-🚀 Building AI-powered applications and automation systems.
+<p>
+Building scalable AI systems focused on LLMs, RAG pipelines, AI agents, and intelligent automation.
+</p><p>
+<a href="https://linkedin.com/in/vijayavanindra">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a><a href="https://github.com/AvanindraVijay">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a><a href="mailto:vijayavanindra5793@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a><a href="https://portfolio-ga9f.onrender.com">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square"/>
+</a>
+</p><img src="https://komarev.com/ghpvc/?username=AvanindraVijay&style=flat-square&color=blue"/></div>---
+
+About Me
+
+AI Engineer with experience building production-grade AI systems using LLMs, LangGraph, FastAPI, vector databases, and multimodal pipelines.
+
+Currently focused on:
+
+- Retrieval-Augmented Generation (RAG)
+- AI Agents & Workflow Automation
+- LangGraph Orchestration
+- Enterprise AI Systems
+- Real-Time AI Applications
+- NLP & Computer Vision
 
 ---
 
-## 🌐 Connect With Me
+Tech Stack
 
-- LinkedIn: https://linkedin.com/in/your-link
-- Portfolio: https://yourportfolio.com
-- Email: yourmail@gmail.com
+Languages
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,mysql"/>
+</p>AI / Machine Learning
 
-## ⚡ Tech Stack
-
-### Languages
-- Python
-- JavaScript
-- SQL
-
-### Frontend
-- React
-- Next.js
-- Tailwind CSS
-
-### AI/ML
 - LangChain
-- RAG
-- Machine Learning
-- Deep Learning
+- LangGraph
+- RAG Pipelines
+- Transformers
+- Hugging Face
+- LlamaIndex
+- CLIP
+- Scikit-Learn
 
-### Tools
-- Docker
-- AWS
-- GitHub Actions
+Backend & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs"/>
+</p>- REST APIs
+- Authentication Systems
+- Session Memory Architectures
+
+Databases & Vector Stores
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+</p>- PostgreSQL
+- MySQL
+- FAISS
+- ChromaDB
+
+Data Analytics & Visualization
+
+- Pandas
+- NumPy
+- Plotly
+- Power BI
+- Matplotlib
+- Seaborn
+
+DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,postman"/>
+</p>---
+
+Experience
+
+Software Developer — BISAG-N
+
+Ministry of Electronics & IT, Government of India
+
+- Built conversational AI systems using LangGraph and RAG pipelines
+- Developed NL-to-SQL analytics systems for PostgreSQL
+- Designed scalable AI APIs using Django REST Framework
+- Worked on multimodal and computer vision research systems
+- Created automated dashboards and analytics workflows
 
 ---
 
-## 📌 Featured Projects
+Featured Projects
 
-### 🤖 AI Resume Analyzer
-AI-powered ATS resume scoring and optimization system.
+Multilingual RAG AI Assistant
 
-### 🧠 Multi-Agent Job Application System
-Automated AI agents for job searching and applications.
+Production-grade AI assistant with multilingual and multimodal support.
 
-### 🎥 Live Streaming AI Chatbot
-Real-time video/audio AI assistant.
+Key Features
 
----
+- Hybrid RAG pipeline
+- LangGraph orchestration
+- Session memory
+- OTP authentication
+- Image + text query handling
+- CLIP integration
 
-## 📊 GitHub Stats
+Stack
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+"LangGraph" "FAISS" "FastAPI" "Django" "CLIP" "Python"
 
 ---
 
-## 🏆 GitHub Trophy
+Enterprise RAG Database Assistant
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight)
+AI-powered assistant for querying databases and enterprise documents.
+
+Key Features
+
+- Natural language to SQL
+- OCR-based PDF retrieval
+- Automated data visualization
+- Multi-turn conversational memory
+- Hybrid structured + unstructured reasoning
+
+Stack
+
+"FastAPI" "PostgreSQL" "LangGraph" "Plotly" "OCR" "LLaMA"
 
 ---
 
-## 👀 Visitor Count
+Real-Time Streaming AI Assistant
 
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+Real-time AI system capable of processing live audio and video streams.
+
+Key Features
+
+- Real-time video/audio processing
+- AI-based contextual responses
+- Computer vision integration
+- Streaming AI workflows
+
+Stack
+
+"Python" "OpenCV" "LLMs" "Streaming APIs"
 
 ---
 
-## 🌱 Currently Learning
+GitHub Analytics
+
+<div align="center"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=AvanindraVijay&show_icons=true&theme=github_dark&hide_border=true"/><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvanindraVijay&layout=compact&theme=github_dark&hide_border=true"/></div>---
+
+Contribution Streak
+
+<div align="center"><img src="https://streak-stats.demolab.com?user=AvanindraVijay&theme=github-dark&hide_border=true"/></div>---
+
+Certifications
+
+- AWS Cloud Foundation
+- Microsoft Generative AI
+- LinkedIn Data Analysis
+- HackerRank SQL
+- PCAP Python
+
+---
+
+Current Focus
 
 - AI Agents
+- Enterprise AI Systems
 - LLM Fine-Tuning
+- Multi-Agent Workflows
+- AI Infrastructure
 - Vector Databases
-- Multi-Agent Systems
 
 ---
 
-## 💬 Quote
+Repository Categories
 
-> “First, solve the problem. Then, write the code.”
+AI-Agents
+RAG-Systems
+LangGraph-Projects
+FastAPI-Backends
+Data-Science
+EDA-Projects
+PowerBI-Dashboards
+NLP-Projects
+Computer-Vision
+AI-Automation
+
+---
+
+Quote
+
+«“First, solve the problem. Then, write the code.”»
