@@ -73,6 +73,16 @@ Open to collaborating on **Open-Source AI/ML Projects** &nbsp;·&nbsp; **vijayav
 ---
 
 <h3>
+  <img src="https://img.shields.io/badge/-GitHub%20Trophies-0D1117?style=flat&logo=github&logoColor=00C2FF"/>
+</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&column=7"/>
+</p>
+
+---
+
+<h3>
   <img src="https://img.shields.io/badge/-Connect%20with%20Me-0D1117?style=flat&logo=handshake&logoColor=00C2FF"/>
 </h3>
 
