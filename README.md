@@ -85,19 +85,6 @@ Stack: LLM, RAG, PostgreSQL, FastAPI, Plotly
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AvanindraVijay&repo=AvanindraVijay" width="90%">
-</div>
-
-*Note: the public `github-readme-activity-graph.vercel.app` instance is currently over its free quota (returns HTTP 402) and can't render. Options: self-host it (fork `Ashutosh00710/github-readme-activity-graph`, deploy your own Vercel project, swap the domain below), or drop this widget. Once you have your own domain, restore it as:*
-```
-![Activity Graph](https://YOUR-OWN-DEPLOYMENT.vercel.app/graph?username=AvanindraVijay&bg_color=0d1117&color=8b949e&line=58a6ff&point=ffffff&area=true&hide_border=true)
-```
-
----
-
 ## 3D Contribution Graph
 
 <div align="center">
