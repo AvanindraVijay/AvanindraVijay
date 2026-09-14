@@ -117,6 +117,11 @@ flowchart TD
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Prompt Engineering vs Loop Engineering](https://medium.com/@shrutrai99/prompt-engineering-vs-loop-engineering-38b9f5d8ced5?source=rss-7c9b9225eb21------2)
+- [Not All Search Is the Same. Here Are the 4 Types You Need to Know](https://medium.com/@shrutrai99/not-all-search-is-the-same-here-are-the-4-types-you-need-to-know-86ed4bafd78c?source=rss-7c9b9225eb21------2)
+- [How to connect two or more agents](https://medium.com/@shrutrai99/how-to-connect-two-or-more-agents-a7c5c526c162?source=rss-7c9b9225eb21------2)
+- [Prompt Engineering Gets Messy at Scale. DSPy Is the Cleaner Way](https://medium.com/@shrutrai99/prompt-engineering-gets-messy-at-scale-dspy-is-the-cleaner-way-7a1cb4fd3abe?source=rss-7c9b9225eb21------2)
+- [How to Implement a Harness in Your Project Using 4 MCP Agents](https://medium.com/@shrutrai99/how-to-implement-a-harness-in-your-project-using-4-mcp-agents-5ffac5ae4fab?source=rss-7c9b9225eb21------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
