@@ -4,11 +4,9 @@ AI Engineer · GenAI Developer · Data Scientist
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Building+Practical+AI+Systems;LLMs+%7C+RAG+%7C+Agentic+AI+%7C+Computer+Vision;From+Ideas+to+Production-Ready+Software" /><br><a href="https://github.com/AvanindraVijay">
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/vijayavanindra/">
+</a><a href="https://www.linkedin.com/in/vijayavanindra/">
 <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://portfolio-ga9f.onrender.com/">
+</a><a href="https://portfolio-ga9f.onrender.com/">
 <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a></div>---
 
@@ -85,7 +83,7 @@ AI Architecture
           │           │           │
           └───────────┼───────────┘
                       ▼
-                   LLM
+                    LLM
                       │
                       ▼
                 AI RESPONSE
@@ -94,7 +92,15 @@ AI Architecture
 
 GitHub Activity
 
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=AvanindraVijay&bg_color=0d1117&color=8b949e&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%"></div>---
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=AvanindraVijay&bg_color=0d1117&color=8b949e&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%" alt="GitHub activity graph"></div>---
+
+GitHub Statistics
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AvanindraVijay&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b9498&icon_color=58a6ff" width="70%" alt="GitHub statistics"></div>---
+
+3D Contribution Graph
+
+<div align="center"><img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D GitHub contribution graph"></div>---
 
 Currently Exploring
 
