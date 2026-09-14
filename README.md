@@ -63,28 +63,30 @@ Stack: LLM, RAG, PostgreSQL, FastAPI, Plotly
 
 ## AI Architecture
 
-```
-                    USER
-                      |
-                      v
-              +---------------+
-              |   AI API      |
-              |   FastAPI     |
-              +-------+-------+
-                      |
-          +-----------+-----------+
-          v           v           v
-        RAG        AGENTS      VISION
-          |           |           |
-          v           v           v
-      Vector DB   LangGraph      YOLO
-          |           |           |
-          +-----------+-----------+
-                      v
-                     LLM
-                      |
-                      v
-                AI RESPONSE
+```mermaid
+flowchart TD
+    A[USER] --> B["AI API<br/>FastAPI"]
+    B --> C[RAG]
+    B --> D[AGENTS]
+    B --> E[VISION]
+    C --> F[("Vector DB")]
+    D --> G[LangGraph]
+    E --> H[YOLO]
+    F --> I[LLM]
+    G --> I
+    H --> I
+    I --> J[AI RESPONSE]
+
+    style A fill:#58a6ff,stroke:#161b22,stroke-width:2px,color:#0d1117
+    style B fill:#2f6fbd,stroke:#161b22,stroke-width:2px,color:#ffffff
+    style C fill:#1b3a5c,stroke:#161b22,stroke-width:2px,color:#ffffff
+    style D fill:#1b3a5c,stroke:#161b22,stroke-width:2px,color:#ffffff
+    style E fill:#1b3a5c,stroke:#161b22,stroke-width:2px,color:#ffffff
+    style F fill:#12233b,stroke:#161b22,stroke-width:2px,color:#ffffff
+    style G fill:#12233b,stroke:#161b22,stroke-width:2px,color:#ffffff
+    style H fill:#12233b,stroke:#161b22,stroke-width:2px,color:#ffffff
+    style I fill:#58a6ff,stroke:#161b22,stroke-width:2px,color:#0d1117
+    style J fill:#2f6fbd,stroke:#161b22,stroke-width:2px,color:#ffffff
 ```
 
 ---
