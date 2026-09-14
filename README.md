@@ -1,97 +1,108 @@
-👋 Hi, I'm Avanindra Vijay
+<div align="center">AVANINDRA VIJAY
 
-AI Engineer • GenAI Developer • Data Scientist
+AI Engineer · GenAI Developer · Data Scientist
 
-I build production-oriented AI systems focused on Generative AI, LLMs, RAG, Agentic AI, and Computer Vision.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Building+Practical+AI+Systems;LLMs+%7C+RAG+%7C+Agentic+AI+%7C+Computer+Vision;From+Ideas+to+Production-Ready+Software" /><br><a href="https://github.com/AvanindraVijay">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/vijayavanindra/">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://portfolio-ga9f.onrender.com/">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a></div>---
 
-I enjoy turning complex problems into practical, scalable, and intelligent software.
+About
 
----
+I build practical AI systems around Generative AI, LLMs, RAG, Agentic AI, and Computer Vision.
 
-🚀 What I Build
-
-- 🤖 Generative AI & LLM Applications
-- 🔎 RAG & Vector Search Systems
-- 🧠 Agentic AI & LLM Workflows
-- 👁️ Computer Vision & Multimodal AI
-- 🗄️ Natural Language → SQL Systems
-- ⚡ FastAPI & AI Backend Services
-- ☁️ Docker, Kubernetes & Cloud Deployment
-
----
-
-🛠️ Tech Stack
-
-Languages
-
-"Python" "SQL" "JavaScript"
-
-AI / ML
-
-"Generative AI" "LLMs" "RAG" "LangChain" "LangGraph" "Transformers" "NLP" "Computer Vision" "YOLO"
-
-Backend & Data
-
-"FastAPI" "PostgreSQL" "Vector DB" "FAISS" "Pandas" "Plotly"
-
-DevOps & Cloud
-
-"Docker" "Kubernetes" "Git" "GitHub" "Azure"
+My work focuses on turning AI models into usable software through Python, FastAPI, PostgreSQL, vector search, APIs, and cloud-native deployment.
 
 ---
 
-🧪 Featured AI Work
+Engineering Stack
 
-🔍 AI-Powered Inspection System
+<div align="center">AI / ML
 
-Computer vision pipeline for analyzing mechanic-uploaded images and identifying missing, damaged, or incorrect lift components.
+"Generative AI" "LLMs" "RAG" "LangChain" "LangGraph"
+"Transformers" "NLP" "Computer Vision" "YOLO" "OCR"
 
-Tech: "YOLO" · "OCR" · "Image Matching" · "PostgreSQL" · "FastAPI" · "Power Apps"
+Backend / Data
 
-💬 RAG & Agentic AI Systems
+"Python" "FastAPI" "PostgreSQL" "FAISS" "BM25"
+"Pandas" "Plotly" "REST APIs"
 
-Built conversational AI systems with retrieval-augmented generation, contextual memory, vector search, and LangGraph-based workflows.
+Cloud / DevOps
 
-Tech: "Python" · "LangChain" · "LangGraph" · "FAISS" · "BM25" · "PostgreSQL"
+"Docker" "Kubernetes" "Azure" "Git" "GitHub"
 
-📊 Natural Language → SQL
+</div>---
 
-Developed AI systems that convert natural-language questions into secure, executable PostgreSQL queries and return analytical results.
+Selected Work
 
-Tech: "LLM" · "PostgreSQL" · "RAG" · "FastAPI" · "Plotly"
+AI-Powered Inspection System
 
----
+Computer vision system that analyzes mechanic-uploaded images and compares detected lift components against expected order/BOM data.
 
-⚡ AI API Example
-
-import os
-from openai import OpenAI
-
-client = OpenAI(
-    base_url="https://api.experientiallabs.ai/v1",
-    api_key=os.environ["EXPLABS_API_KEY"]
-)
-
-response = client.chat.completions.create(
-    model="gpt-6-astra-pro",
-    stream=True,
-    messages=[
-        {"role": "user", "content": "Hello from my product"}
-    ],
-)
-
-«Building with OpenAI-compatible APIs makes it easy to integrate modern LLM capabilities into production applications.»
+Detection: YOLO · OCR · Image Matching
+Backend: FastAPI · PostgreSQL
+Interface: Microsoft Power Apps
 
 ---
 
-📈 Currently Exploring
+RAG & Agentic AI Systems
 
-"Multimodal LLMs" · "Agentic AI" · "LLM Optimization" · "Computer Vision" · "Kubernetes" · "Cloud AI"
+Built context-aware AI applications using retrieval pipelines, vector search, conversational memory, and graph-based workflows.
+
+Stack: LangChain · LangGraph · FAISS · BM25 · PostgreSQL · Local LLMs
 
 ---
 
-🤝 Let's Connect
+Natural Language → SQL
 
-I'm interested in AI Engineering, Generative AI, LLM Applications, and intelligent automation.
+AI-powered analytics system that converts natural-language questions into validated and executable PostgreSQL queries.
 
-Building AI systems that solve real-world problems.
+Stack: LLM · RAG · PostgreSQL · FastAPI · Plotly
+
+---
+
+AI Architecture
+
+                    USER
+                      │
+                      ▼
+              ┌───────────────┐
+              │   AI API      │
+              │   FastAPI     │
+              └───────┬───────┘
+                      │
+          ┌───────────┼───────────┐
+          ▼           ▼           ▼
+       RAG         AGENTS       VISION
+          │           │           │
+          ▼           ▼           ▼
+      Vector DB    LangGraph     YOLO
+          │           │           │
+          └───────────┼───────────┘
+                      ▼
+                   LLM
+                      │
+                      ▼
+                AI RESPONSE
+
+---
+
+GitHub Activity
+
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=AvanindraVijay&bg_color=0d1117&color=8b949e&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%"></div>---
+
+Currently Exploring
+
+"Multimodal LLMs" · "Agentic AI" · "LLM Optimization"
+"Computer Vision" · "Kubernetes" · "Cloud AI"
+
+---
+
+<div align="center">BUILD · LEARN · SHIP
+
+</div>
