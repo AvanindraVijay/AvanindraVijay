@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./banner.svg" width="100%" alt="Avanindra Vijay banner" />
+
 # Avanindra Vijay
 
 **AI Engineer · GenAI Developer · Data Scientist**
