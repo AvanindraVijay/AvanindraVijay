@@ -105,7 +105,7 @@ Stack: LLM, RAG, PostgreSQL, FastAPI, Plotly
 ## Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AvanindraVijay&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b9498&icon_color=58a6ff" width="48%">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=AvanindraVijay&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b9498&icon_color=58a6ff" width="48%">
 </div>
 
 ---
