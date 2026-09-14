@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Avanindra Vijay banner" />
+<img src="./hero-3d.svg" width="100%" alt="Avanindra Vijay hero banner" />
 
 # Avanindra Vijay
 
