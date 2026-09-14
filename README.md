@@ -12,6 +12,8 @@ Building practical AI systems — LLMs, RAG, Agentic AI, Computer Vision
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayavanindra/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-ga9f.onrender.com/)
 
+![Profile Views](https://komarev.com/ghpvc/?username=AvanindraVijay&color=58a6ff&style=for-the-badge&label=Profile+Views)
+
 </div>
 
 ---
@@ -103,6 +105,13 @@ Stack: LLM, RAG, PostgreSQL, FastAPI, Plotly
 
 ---
 
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## Currently Exploring
 
 `Multimodal LLMs` `Agentic AI` `LLM Optimization` `Computer Vision` `Kubernetes` `Cloud AI`
@@ -111,6 +120,10 @@ Stack: LLM, RAG, PostgreSQL, FastAPI, Plotly
 
 <div align="center">
 
+<img src="./mascot-bot.svg" width="140" alt="Waving robot mascot" />
+
 **Build · Learn · Ship**
+
+Thanks for stopping by — feel free to explore the repos below!
 
 </div>
