@@ -87,7 +87,7 @@ flowchart TD
     style H fill:#12233b,stroke:#161b22,stroke-width:2px,color:#ffffff
     style I fill:#58a6ff,stroke:#161b22,stroke-width:2px,color:#0d1117
     style J fill:#2f6fbd,stroke:#161b22,stroke-width:2px,color:#ffffff
-```
+```mermaid
 
 ---
 
