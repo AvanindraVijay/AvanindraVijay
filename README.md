@@ -112,6 +112,13 @@ Stack: LLM, RAG, PostgreSQL, FastAPI, Plotly
 
 ---
 
+## Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ## Currently Exploring
 
 `Multimodal LLMs` `Agentic AI` `LLM Optimization` `Computer Vision` `Kubernetes` `Cloud AI`
